@@ -1,0 +1,82 @@
+<resources>
+
+    <string name="app_name">Meal Recipes App</string>
+    <string name="addButton_text">Add Item</string>
+    <string name="delButton_text">Delete item</string>
+    <string name="defTitle">Default Item</string>
+    <string name="contentDesc_MealImage">Meal Image</string>
+    <string name="caloriesString">calories</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="back">Back</string>
+    <string name="calories">Calories:</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="description">Description:</string>
+    <string name="link_to_recipe">Link to Recipe:</string>
+    <string name="name">Name:</string>
+    <string name="titleInputView">Title</string>
+    <string name="importbutton">Import</string>
+    <string name="caloriesInputView">Calories</string>
+    <string name="descriptionInputView">Description</string>
+    <string name="ingredientsInputView">Ingredients</string>
+    <string name="recipe_link">Recipe Link:</string>
+    <string name="add">Add</string>
+
+
+    <string-array name="meal_titles">
+        <item>Tacos de Birria</item>
+        <item>Curry Feast</item>
+        <item>Home-made Pizza</item>
+        <item>Pasta al Tonno</item>
+        <item>Pollo a la Milanese</item>
+    </string-array>
+
+    <string-array name="meal_descriptions">
+        <item>A Mexican dish from the state of Jalisco.
+            The dish is a meat stew or soup traditionally made from goat meat</item>
+        <item>A curry is a dish with a sauce seasoned with spices,
+            mainly associated with South Asian cuisine.In southern India,
+            leaves from the curry tree may be included.</item>
+        <item>a dish of Italian origin consisting of a flat,
+            round base of dough baked with a topping of tomato sauce and cheese,
+            typically with added meat or vegetables</item>
+        <item>Pasta al tonno is pretty self-explanatory, it\'s pasta,
+            with tuna and a large part of its appeal is its adaptability.</item>
+        <item>This Chicken Milanese is chicken cutlets coated with breadcrumbs,
+            then pan fried until crispy and golden brown</item>
+    </string-array>
+
+    <string-array name="meal_images">
+        <item>@drawable/birria_tacos</item>
+        <item>@drawable/polloguis</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/pasta_tonno</item>
+        <item>@drawable/milanesa</item>
+    </string-array>
+
+    <string-array name="igredients">
+        <item>Goat Meat, Olive oil
+            , Guajillo Chiles, Ancho Chiles
+            , Tomatoes, Onion Halved, Garlic
+            , Oregano, Salt, Bay Leaf </item>
+
+        <item>Coriander, Cumin
+            , Tumeric, Fennel Seeds
+            , Cinnamon, Pepper
+            , Ground Mustard, Salt
+            , Olive oil, Meat, Garlic
+            , Onions</item>
+
+        <item> Flour, Salt, Sugar, Rise Yeast
+                , Water, Oil, Tomato Sauce
+                , Garlic, Pepper, Cheese</item>
+
+        <item>Extra-Virgin Olive Oil, Garlic Cloves
+            , Red Pepper, Tomatoes, Salt, Fish Sauce
+            , Tuna, Pasta, Flat Leaves</item>
+
+        <item>Chicken Breast, Flour, Eggs
+            , Herbed Breadcrumbs, Cilantro
+            , Lemon</item>
+    </string-array>
+
+</resources>

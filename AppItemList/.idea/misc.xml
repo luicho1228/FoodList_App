@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.109" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.222" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/drawable/ic_launcher_background.xml" value="0.109" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/drawable/polloguis.xml" value="0.1" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-land/activity_add_item.xml" value="0.4" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-land/activity_main.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-land/activity_meal_item.xml" value="0.18033509700176367" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-land/recycle_view_comp.xml" value="0.21164021164021163" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-large/activity_add_item.xml" value="0.1748610517315092" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-sw320dp-land/recycle_view_comp.xml" value="0.18033509700176367" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-sw320dp/activity_add_item.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-sw320dp/activity_meal_item.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-sw320dp/recycle_view_comp.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-sw600dp/activity_add_item.xml" value="0.2" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-sw600dp/activity_meal_item.xml" value="0.264" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout-sw600dp/recycle_view_comp.xml" value="0.1673076923076923" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout/activity_add_item.xml" value="0.264" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout/activity_meal_item.xml" value="0.2" />
+        <entry key="..\:/Users/Melissa Vasquez/AndroidStudioProjects/AppItemList/app/src/main/res/layout/recycle_view_comp.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

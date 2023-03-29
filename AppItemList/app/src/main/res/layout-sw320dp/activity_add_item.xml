@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<androidx.constraintlayout.widget.ConstraintLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".addMealItem">
+
+    <ImageView
+        android:id="@+id/addImage"
+        android:layout_width="209dp"
+        android:layout_height="143dp"
+        android:layout_marginTop="48dp"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_gallery" />
+
+    <Button
+        android:id="@+id/picButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="52dp"
+        android:text="@string/importbutton"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout2"
+        app:layout_constraintStart_toEndOf="@+id/addImage"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.877" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="356dp"
+        android:layout_height="402dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.567"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/addImage"
+        app:layout_constraintVertical_bias="1.0">
+
+        <TextView
+            android:id="@+id/titleInputView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/titleInputView"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="245dp" />
+
+        <EditText
+            android:id="@+id/titleInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="293dp" />
+
+
+        <TextView
+            android:id="@+id/caloriesInputView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/caloriesInputView"
+            tools:layout_editor_absoluteX="28dp"
+            tools:layout_editor_absoluteY="356dp" />
+
+        <EditText
+            android:id="@+id/caloriesInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            tools:layout_editor_absoluteX="27dp"
+            tools:layout_editor_absoluteY="382dp" />
+
+        <TextView
+            android:id="@+id/descInputView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/descriptionInputView"
+            tools:layout_editor_absoluteX="28dp"
+            tools:layout_editor_absoluteY="437dp" />
+
+        <EditText
+            android:id="@+id/descInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:gravity="start|top"
+            android:inputType="textMultiLine"
+            tools:layout_editor_absoluteX="28dp"
+            tools:layout_editor_absoluteY="463dp" />
+
+        <TextView
+            android:id="@+id/ingredientsInputView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/ingredientsInputView" />
+
+        <EditText
+            android:id="@+id/ingredientsInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <TextView
+            android:id="@+id/linkView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/recipe_link" />
+
+        <EditText
+            android:id="@+id/linkInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <Button
+            android:id="@+id/addButton"
+            android:layout_width="104dp"
+            android:layout_height="59dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/add"
+            tools:layout_editor_absoluteX="274dp"
+            tools:layout_editor_absoluteY="631dp" />
+
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

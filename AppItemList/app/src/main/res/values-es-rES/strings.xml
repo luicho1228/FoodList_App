@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de Recetas de Platos</string>
+    <string name="addButton_text">Anadir Receta</string>
+    <string name="delButton_text">Eliminar Receta</string>
+    <string name="defTitle">Receta Vacia</string>
+    <string name="contentDesc_MealImage">Imagen del Plato</string>
+    <string name="caloriesString">Calorias</string>
+    <string name="edit_item">Editar Receta</string>
+    <string name="back">Atras</string>
+    <string name="calories">Calorias:</string>
+    <string name="ingredients">Ingredientes</string>
+    <string name="description">Descripcion:</string>
+    <string name="link_to_recipe">Pagina Web de la Receta:</string>
+    <string name="name">Nombre:</string>
+    <string name="titleInputView">Titulo</string>
+    <string name="importbutton">Importar</string>
+    <string name="caloriesInputView">Calorias</string>
+    <string name="descriptionInputView">Descripcion</string>
+    <string name="ingredientsInputView">Ingredientes</string>
+    <string name="recipe_link">Enlace a la Receta</string>
+    <string name="add">Agregar</string>
+
+
+    <string-array name="meal_titles">
+        <item>Tacos de Birria</item>
+        <item>Fiesta de Curry</item>
+        <item>Pizza Casera</item>
+        <item>Pasta al Tono</item>
+        <item>Pollo a la Milanesa</item>
+    </string-array>
+
+    <string-array name="meal_descriptions">
+        <item>Un platillo mexicano del estado de Jalisco.
+            El plato es un guiso de carne o sopa hecha tradicionalmente con carne de cabra.</item>
+        <item>Un curry es un plato con una salsa sazonada con especias,
+            principalmente asociado con la cocina del sur de Asia. En el sur de la India,
+            se pueden incluir hojas del árbol del curry.</item>
+        <item>un plato de origen italiano que consiste en un plano,
+            base redonda de masa horneada con topping de salsa de tomate y queso,
+            típicamente con carne o verduras añadidas</item>
+        <item>La pasta al tonno se explica por sí misma, es pasta,
+            con el atún y gran parte de su atractivo es su adaptabilidad.</item>
+        <item>Esta milanesa de pollo son chuletas de pollo rebozadas con pan rallado,
+            luego se fríe hasta que esté crujiente y dorado</item>
+    </string-array>
+
+    <string-array name="meal_images">
+        <item>@drawable/birria_tacos</item>
+        <item>@drawable/polloguis</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/pasta_tonno</item>
+        <item>@drawable/milanesa</item>
+    </string-array>
+
+    <string-array name="igredients">
+        <item>Carne de Cabra, Aceite de Oliva
+            , Chiles Guajillos, Chiles Anchos
+            , Tomates, Cebolla Partida A La Mitad, Ajo
+            , orégano, sal, hoja de laurel</item>
+
+        <item>cilantro, comino
+            , Cúrcuma, Semillas De Hinojo
+            , Canela, Pimienta
+            , Mostaza Molida, Sal
+            , Aceite de oliva, Carne, Ajo
+            , Cebollas</item>
+
+        <item> Harina, Sal, Azúcar, Levadura De Levadura
+                , Agua, Aceite, Salsa De Tomate
+                , Ajo, Pimiento, Queso</item>
+
+        <item>Aceite de Oliva Virgen Extra, Dientes de Ajo
+            , pimiento rojo, tomate, sal, salsa de pescado
+            , Atún, Pasta, Hojas Planas</item>
+
+        <item>Pechuga De Pollo, Harina, Huevos
+            , Pan rallado con hierbas, Cilantro
+            , Limón</item>
+    </string-array>
+
+
+</resources>

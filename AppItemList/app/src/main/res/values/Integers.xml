@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="grid_column_count">1</integer>
+    <integer-array name="items_caories">
+        <item>250</item>
+        <item>1000</item>
+        <item>300</item>
+        <item>543</item>
+        <item>480</item>
+    </integer-array>
+</resources>

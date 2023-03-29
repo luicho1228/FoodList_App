@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">食事レシピアプリ</string>
+    <string name="addButton_text">アイテムを追加</string>
+    <string name="delButton_text">アイテムを削除</string>
+    <string name="defTitle">デフォルト項目</string>
+    <string name="contentDesc_MealImage">食事イメージ</string>
+    <string name="caloriesString">カロリー</string>
+    <string name="edit_item">アイテムを編集</string>
+    <string name="back">戻る</string>
+    <string name="calories">カロリー:</string>
+    <string name="ingredients">材料</string>
+    <string name="description">説明：</string>
+    <string name="link_to_recipe">レシピへのリンク:</string>
+    <string name="name">名前：</string>
+    <string name="titleInputView">題名</string>
+    <string name="importbutton">輸入</string>
+    <string name="caloriesInputView">カロリー</string>
+    <string name="descriptionInputView">説明</string>
+    <string name="ingredientsInputView">材料</string>
+    <string name="recipe_link">レシピリンク:</string>
+    <string name="add">追加</string>
+
+
+    <string-array name="meal_titles">
+        <item>タコス デ ビリア</item>
+        <item>カレーの饗宴</item>
+        <item>自家製ピザ</item>
+        <item>パスタ アル トンノ</item>
+        <item>ポッロ アッラ ミラネーゼ</item>
+    </string-array>
+
+    <string-array name="meal_descriptions">
+        <item>ハリスコ州のメキシコ料理。
+            料理は、伝統的にヤギの肉から作られた肉のシチューまたはスープです</item>
+        <item>カレーはスパイスで味付けしたソースをかけた料理で、
+            主に南アジア料理に関連しています。南インドでは、
+            カレーの木の葉が含まれている場合があります。</item>
+        <item>フラットからなるイタリア起源の料理、
+            トマトソースとチーズをトッピングして焼き上げた丸い土台に、
+            通常、追加の肉または野菜</item>
+        <item>パスタ アル トンノは一目瞭然です。パスタです。
+            その魅力の大部分はその適応性です。</item>
+        <item>こちらのチキンミラネーゼはチキンカツレツにパン粉をまぶしたもので、
+            次に、カリカリと黄金色になるまでフライパンで揚げます</item>
+    </string-array>
+
+    <string-array name="meal_images">
+        <item>@drawable/birria_tacos</item>
+        <item>@drawable/polloguis</item>
+        <item>@drawable/pizza</item>
+        <item>@drawable/pasta_tonno</item>
+        <item>@drawable/milanesa</item>
+    </string-array>
+
+    <string-array name="igredients">
+        <item>山羊肉、オリーブオイル
+            、グアヒーヨ チリ、アンチョ チリ
+            , トマト, 玉ねぎ半分, にんにく
+            、オレガノ、ソルト、ローリエ </item>
+
+        <item>コリアンダー、クミン
+            、ターメリック、フェンネルシード
+            、シナモン、ペッパー
+            、からし、塩
+            , オリーブオイル, 肉, にんにく
+            、 玉ねぎ</item>
+
+        <item>小麦粉、食塩、砂糖、ライズイースト
+                、水、油、トマトソース
+                、にんにく、こしょう、チーズ</item>
+
+        <item>エクストラバージンオリーブオイル、ガーリッククローブ
+            、赤唐辛子、トマト、塩、魚醤
+            、マグロ、パスタ、平葉</item>
+
+        <item>鶏胸肉、小麦粉、卵
+            , 香草パン粉, パクチー
+            、 レモン</item>
+    </string-array>
+
+
+</resources>
